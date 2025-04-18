@@ -1,4 +1,4 @@
-from json_logger import JsonLogger
+from .json_logger import JsonLogger
 
 __all__ = [
     'JsonLogger'
